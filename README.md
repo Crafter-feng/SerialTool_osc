@@ -1,6 +1,6 @@
 # SerialTool_osc
 
-SerialTool 是一个非常优秀的串口助手，使用Qt编写，可以跨平台使用，[项目地址](https://github.com/gztss/SerialTool)
+SerialTool 是一个非常优秀的串口和网络连接助手，使用Qt编写，可以显示数据波形，还可以跨平台使用，[项目地址](https://github.com/gztss/SerialTool)
 
 * [软件下载地址](https://github.com/gztss/SerialTool/releases/tag/v1.2.4)
 
