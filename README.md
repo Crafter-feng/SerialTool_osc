@@ -8,15 +8,15 @@ SerialTool 是一个非常优秀的串口助手，使用Qt编写，可以跨平�
 
 C语言的用法作者已经写的很详细了，这里我主要说一下如何在microPython环境下使用SerialTool来显示波形
 
-* [使用串口发送数据](#1、使用串口发送数据)
+* [使用串口发送数据](1、使用串口发送数据)
 > [test_uart.py](./slave/Python/test_uart.py)
 
-* [使用TCP发送数据](#2、使用TCP发送数据)
+* [使用TCP发送数据](2、使用TCP发送数据)
 
 > [test_tcp.py](./slave/Python/test_tcp.py)
 
 ---
-#1、使用串口发送数据流
+1、使用串口发送数据流
 导入库 
 
     import sendwave
@@ -44,7 +44,7 @@ C语言的用法作者已经写的很详细了，这里我主要说一下如何�
 	uart.close()
 
 ---
-#2、使用TCP发送数据
+2、使用TCP发送数据
 导入库 
 
 	import network
