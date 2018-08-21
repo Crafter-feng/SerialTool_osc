@@ -6,9 +6,9 @@ SerialTool 是一个非常优秀的串口和网络连接助手，使用Qt编写�
 
 快速链接
 
-* [SerialTool-linux64-1.2.3](/SerialTool/SerialTool-linux64-1.2.3.zip)
-* [SerialTool1.2.4_Win32_Setup](/SerialTool/SerialTool1.2.4_Win32_Setup.exe)
->注：Linux版本建议使用 [SerialTool-linux64-1.2.3](/SerialTool/SerialTool-linux64-1.2.3.zip)
+* [SerialTool-linux64-1.2.3](https://github.com/rose-w/SerialTool_osc/raw/master/SerialTool/SerialTool-linux64-1.2.3.zip)
+* [SerialTool1.2.4_Win32_Setup](https://github.com/rose-w/SerialTool_osc/raw/master/SerialTool/SerialTool1.2.4_Win32_Setup.exe)
+>注：Linux版本建议使用 [SerialTool-linux64-1.2.3](https://github.com/rose-w/SerialTool_osc/raw/master/SerialTool/SerialTool-linux64-1.2.3.zip)
 
 C语言的用法作者已经写的很详细了，这里我主要说一下如何在microPython环境下使用SerialTool来显示波形
 
